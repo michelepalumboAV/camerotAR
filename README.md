@@ -5,3 +5,8 @@ The tools and languages, which I used for the development of the application, ar
 - for 2D MODELS: Photoshop and Canva
 - for 3D MODELS: SketchUp
 - for the APPLICATION: Unity3D, Vuforia and C#
+
+To test the application:
+1) Download the apk on your android smartphone
+2) Download and print target images
+3) When entering the "TOUR", point the camera towards the reference target image
