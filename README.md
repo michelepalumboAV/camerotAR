@@ -7,6 +7,6 @@ The tools and languages, which I used for the development of the application, ar
 - for the APPLICATION: Unity3D, Vuforia and C#
 
 To test the application:
-1) Download the apk on your android smartphone
+1) Download and install the apk on your android smartphone
 2) Download and print target images
 3) When entering the "TOUR", point the camera towards the reference target image
